@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{A1B9A151-DDDC-4909-B18B-AF043CCC9AFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCore_Azure", "DotNetCore_Azure.csproj", "{02D41D51-765A-47F2-8D2D-058391FD51F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1B9A151-DDDC-4909-B18B-AF043CCC9AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B9A151-DDDC-4909-B18B-AF043CCC9AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B9A151-DDDC-4909-B18B-AF043CCC9AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B9A151-DDDC-4909-B18B-AF043CCC9AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02D41D51-765A-47F2-8D2D-058391FD51F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D41D51-765A-47F2-8D2D-058391FD51F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D41D51-765A-47F2-8D2D-058391FD51F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D41D51-765A-47F2-8D2D-058391FD51F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29706424-A5EA-4FF4-8A88-B27FA6900468}
+	EndGlobalSection
+EndGlobal
